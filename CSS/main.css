@@ -1,0 +1,17 @@
+.menu{
+    color: blueviolet;
+}
+.titre{
+    text-align: center;
+    color: gold;
+}
+body{
+    font-family: "Arial ",sans-serif;
+}
+p{
+    border-bottom: gold;
+    border-top: blueviolet;
+    border-left: blueviolet;
+    border-right: blueviolet;
+    border: solid;
+}
