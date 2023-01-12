@@ -3,7 +3,6 @@
 }
 body{
     font-family: "Arial ",sans-serif;
-    background-image: url("https://th.bing.com/th/id/OIP.yRr0HjOy4A2UZPx6S9oIDQHaEK?pid=ImgDet&rs=1");
 }
 p{
     border-bottom: gold;
@@ -18,4 +17,8 @@ h1{
     font-weight: 400;
     color: red;
     text-align: center;
+}
+img{
+    max-width: 100%;
+    height: auto;
 }
