@@ -1,12 +1,9 @@
 .menu{
     color: blueviolet;
 }
-.titre{
-    text-align: center;
-    color: gold;
-}
 body{
     font-family: "Arial ",sans-serif;
+    background-image: url("https://th.bing.com/th/id/OIP.yRr0HjOy4A2UZPx6S9oIDQHaEK?pid=ImgDet&rs=1");
 }
 p{
     border-bottom: gold;
@@ -14,4 +11,11 @@ p{
     border-left: blueviolet;
     border-right: blueviolet;
     border: solid;
+}
+h1{
+    font-family: Lobster,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: red;
+    text-align: center;
 }
