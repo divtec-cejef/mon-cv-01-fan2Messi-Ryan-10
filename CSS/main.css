@@ -7,16 +7,21 @@ body{
     text-align: center;
     background-image: url("https://th.bing.com/th/id/R.220568ed4e83c98f2a390a0e3d92efb3?rik=oUH7iR2Sjoa5rA&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f09%2fDownload-All-White-Image.jpg&ehk=%2bQMyqpj8O008ybzZBs7Srk7JArJjRjwys58Cm%2ftvHZk%3d&risl=&pid=ImgRaw&r=0");
 }
+h3{
+    font-family: "Roboto Flex",sans-serif;
+    text-align: center;
 
-p{
-    border-bottom: gold;
-    border-top: blueviolet;
-    border-left: blueviolet;
-    border-right: blueviolet;
-    border: solid;
-    display: inline-block;
 }
-
+.lien{
+    font-family: "Roboto Flex";
+    text-align: left;
+    color: darkgray;
+}
+img{
+    max-width: 100%;
+    height: auto;
+    position: center;
+}
 h1{
     font-family: Lobster,sans-serif;
     font-style: normal;
@@ -24,18 +29,14 @@ h1{
     color: red;
     text-align: center;
 }
-
-img{
-    max-width: 100%;
-    height: auto;
-    position: center;
-}
-
 ul{
     text-align: left;
     max-width: 450px;
     display: inline-block;
     margin: auto;
+    font-family: Lobster,sans-serif;
+    color: darkblue;
+
 }
 footer{
     text-align:right;
